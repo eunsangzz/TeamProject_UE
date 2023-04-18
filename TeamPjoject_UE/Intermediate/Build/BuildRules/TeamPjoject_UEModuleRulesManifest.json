@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Unreal\\TeamProject_UE\\TeamPjoject_UE\\Source\\TeamPjoject_UE\\TeamPjoject_UE.Build.cs",
+		"E:\\Unreal\\TeamProject_UE\\TeamPjoject_UE\\Source\\TeamPjoject_UE.Target.cs",
+		"E:\\Unreal\\TeamProject_UE\\TeamPjoject_UE\\Source\\TeamPjoject_UEEditor.Target.cs"
+	],
+	"EngineVersion": "5.1.1"
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TeamPjoject_UE",
+			"Path": "E:\\Unreal\\TeamProject_UE\\TeamPjoject_UE\\Source\\TeamPjoject_UE.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TeamPjoject_UEEditor",
+			"Path": "E:\\Unreal\\TeamProject_UE\\TeamPjoject_UE\\Source\\TeamPjoject_UEEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
